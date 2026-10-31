@@ -43,7 +43,7 @@
     },
     "require-dev": {
         "algolia/algoliasearch-client-php": "^4.32",
-        "doctrine/dbal": "^3.6",
+        "doctrine/dbal": "^4.5.0",
         "fakerphp/faker": "~1.10",
         "google/cloud-translate": "^1.6",
         "larastan/larastan": "^3.12.3",
